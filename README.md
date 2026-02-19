@@ -101,5 +101,4 @@ The console allows you to apply effects to both heads ("SYNC"), just the "TOP", 
 
 Feel free to reach out if you have any questions, run into issues, or if you're interested in customized features for your light stick!
 
-* **Email:** [liyoung74788@gmail.com]
-
+* **Email:**  <liyoung74788@gmail.com>
