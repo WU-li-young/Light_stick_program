@@ -10,17 +10,14 @@ So, how to control it? It is easy! To control it, you need a smartphone. When yo
 
 ![control default picture](https://github.com/user-attachments/assets/1023e112-8935-48c1-abc2-9bf26da10033)
 
-
 You can see three buttons on the top of the web called "SYNC", "TOP", and "BTM", which means you can control it in three methods.
 Then, under the three buttons, you will see another two buttons called "Static/Color-Jumping" and "Special Effects Library".When you choose "Static/Color-Jumping" button, you can see both "Palette" and "Brightness Control Bar". Whatever color you choose from the palette, that will be the color of the light stick. There are also some default colors for you to choose.
 
 ![static page picture](https://github.com/user-attachments/assets/c1d728ab-4031-4dfa-8ea1-d7e52144bc33)
 
-
 Next, let's focus on the "Special Effect Library" button. When you click the button, a drop-down menu will appear. Click the drop-down menu, you will see some effects you can pick.
 
 ![special effect library picture](https://github.com/user-attachments/assets/493e887d-6da4-4e40-b602-9a86634741b8)
-
 
 Also, take a look at the more detailed information which located at the end.
 
